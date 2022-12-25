@@ -1,23 +1,23 @@
-# C++ Files
-*I will be uploading my c++ codes in this repository. <br> it will be updated time to time so don't 
+# **C++ Files**
+- *I will be uploading my c++ codes in this repository. <br> it will be updated time to time so don't 
 forget to __Mark star on this repository__*
-## Content
-- **_Hello.cpp_**
+## **Content**
+- **Hello.cpp**
     - In this files i have written my first c++ code. 
     - [click here](https://github.com/Nilesh220/Cpp-files/blob/main/Hello.cpp) 👈
-- **_Taking-input.cpp_**
+- **Taking-input.cpp**
     - In this file it has shown how to  take input.
     - [click here](https://github.com/Nilesh220/Cpp-files/blob/main/taking_input.c%2B%2B) 👈
-- **_Nested-if.cpp_**
+- **Nested-if.cpp**
     - how to use nested if in cpp.
     - [click here](https://github.com/Nilesh220/Cpp-files/blob/main/nested_if.cpp) 👈
-- **_Odd-even.cpp_**
+- **Odd-even.cpp**
     - how to check odd/even in cpp.
     - [click here](https://github.com/Nilesh220/Cpp-files/blob/main/odd_even.cpp) 👈
-- **_For-loop.cpp_**
+- **For-loop.cpp**
     - how to use for loop in cpp.
     - [click here](https://github.com/Nilesh220/Cpp-files/blob/main/for_loop.cpp) 👈
-- **_if-else.cpp_**
+- **if-else.cpp**
     - how to use if- else in cpp.
     - [click here](https://github.com/Nilesh220/Cpp-files/blob/main/if_else.cpp) 👈
 ***
