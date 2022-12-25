@@ -1,4 +1,4 @@
-# *C++ Files*
+# C++ Files
 *I will be uploading my c++ codes in this repository. <br> it will be updated time to time so don't 
 forget to __Mark star on this repository__*
 ## Content
